@@ -1,7 +1,9 @@
 # incubadora_firmware
 Programa para la incubadora portable (proyecto Dictel)
 
-#Primer repositorio
-Probrama inicial para el firmware de la incuvadora.
-Integrado el algoritmo PID bÃ¡sico
-Integrado el comando para la NextiÃ³n de inicio de programa
+#Primer Commit.
+Programa inicial que incluye:
+Algoritmo PID básico
+Archivo .h de configuración
+Añadida la líbrería de nextion.
+
